@@ -1,7 +1,7 @@
 # Explainable Image Classifier
 Beyond model performance, image classifier that explains its decisions using interpretability techniques like Grad-CAM or LIME.
 
-[![Alt text](docs/image_classifier.png)]
+![Alt text](docs/image_classifier.png)
 
 ## Features
 - A Convolutional Neural Network (CNN) model trained to classify images into different categories.
